@@ -23,4 +23,4 @@ Download, analyze, and visualize to uncover valuable insights.
 
 PBIX file link: https://drive.google.com/file/d/1pB_sc9wIqTOs9B9ShgCsl7qV9_2zYEzP/view?usp=sharing  
 PDF file link:  https://drive.google.com/file/d/14TFjhdXEjN3aQp-xoRGM_y0tTDhaT9n-/view?usp=sharing
-PPT file link: https://docs.google.com/presentation/d/10b0W94IbT0qtHxTm9QQmWTaVcLG_yo7-/edit?usp=sharing&ouid=108583882223764357555&rtpof=true&sd=true
+PPT file link: https://docs.google.com/presentation/d/135vJltfWHpj5FGc3S-YIHHuWxTssPYH7/edit?usp=sharing&ouid=108583882223764357555&rtpof=true&sd=true
